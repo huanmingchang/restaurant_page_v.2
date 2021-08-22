@@ -30,6 +30,10 @@ It's the restaurant page that includes some of nice restaurants in Taipei.
 
 ## ScreenShots
 
+![image](https://github.com/huanmingchang/restaurant_page_v.2/blob/main/public/images/index.png)
+![image](https://github.com/huanmingchang/restaurant_page_v.2/blob/main/public/images/show.png)
+![image](https://github.com/huanmingchang/restaurant_page_v.2/blob/main/public/images/search.png)
+
 ## Contributor
 
 - Anson Chang
